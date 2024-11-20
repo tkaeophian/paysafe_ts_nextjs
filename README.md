@@ -1,6 +1,6 @@
 # Paysafe Payment
 
-A TypeScript-based React component for integrating the Paysafe payment gateway with support for advanced, hosted field validation, event handling, tokenization, and error management.
+Basic PaySafe example NextJs 15 + TypeScript for integrating the Paysafe payment gateway with support for advanced, hosted field validation, event handling, tokenization, and error management.
 
 ## Features
 
@@ -12,6 +12,8 @@ A TypeScript-based React component for integrating the Paysafe payment gateway w
   ThreeDSecure: Supports 3D Secure authentication for enhanced transaction security.
 - TypeScript Support: Fully typed interfaces and props for improved developer experience.
 - No redirection is required.
+
+![Screenshot](/public/screenshot.png?raw=true "Screenshot")
 
 ## Prerequisite
 

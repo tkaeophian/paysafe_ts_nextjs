@@ -2,6 +2,13 @@
   "name": "paysafe_ts_nextjs",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Tee Kaeophian"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkaeophian/paysafe_ts_nextjs.git"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
